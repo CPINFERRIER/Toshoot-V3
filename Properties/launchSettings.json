@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Toshoot V3": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\N.I.N.A. - Nighttime Imaging 'N' Astronomy\\NINA.exe"
+    }
+  }
+}
